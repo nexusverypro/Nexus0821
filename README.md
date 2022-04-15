@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning C++
 - 📫 How to reach me `nexusisbadateverything@gmail.com`
 
-<!---
-Nexus0821/Nexus0821 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Languages:
+    - Node JS
+    - C++
+    - C#
+    - Python
+    - Javascript
+
+I am currently working for Tunno Ltd as a software engineer and a security specialist.
