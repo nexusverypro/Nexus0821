@@ -9,5 +9,7 @@
     - C#
     - Python
     - Javascript
+    - Java
+    - TypeScript
 
 I am currently working for Tunno Ltd as a software engineer and a security specialist.
