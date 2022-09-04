@@ -1,7 +1,6 @@
-- 👋 Hi, I am Nexus and I am a software engineer.
-- 👀 I’m interested in ethical hacking.
-- 🌱 I’m currently learning C++
-- 📫 How to reach me `nexusisbadateverything@gmail.com`
+- 👋 Hi, I am Nexus and I am a software engineer, and a security engineer and researcher.
+- 👀 I’m interested in ethical hacking, and game development.
+- 🌱 I’m currently learning C++, and a bunch of other languages!
 
 - Languages:
     - Node JS
@@ -9,6 +8,4 @@
     - Python
     - Javascript
     - Java
-    - TypeScript
-
-I am currently working for Tunno Ltd as a software engineer and a security specialist.
+    - Other JavaScript derived languages
