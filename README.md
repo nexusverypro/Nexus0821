@@ -12,7 +12,7 @@
     - Kotlin
     - Rust
     - PHP
-| **Some i don't really use often, but I am steadily learning them.**
+> **Some i don't really use often, but I am steadily learning them.**
 
 
 
