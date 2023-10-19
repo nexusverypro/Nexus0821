@@ -1,5 +1,5 @@
 - 👋 Hi, I am Nexus and I am a software engineer, and a security engineer and researcher.
-- 👀 I’m interested in ethical hacking, and game development.
+- 👀 I’m interested in ethical hacking, general software development and game development.
 - 🌱 I’m currently learning C++, and a bunch of other languages!
 
 - Languages:
@@ -8,4 +8,8 @@
     - Python
     - Javascript
     - Java
-    - Other JavaScript derived languages
+    - Other JavaScript derived languages (such as TypeScript, Node.JS, etc)
+    - SQL
+    - A tiny bit of Kotlin
+    - A bit of Rust as well
+    - PHP (i dont use it very often)
