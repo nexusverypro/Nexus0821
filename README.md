@@ -1,7 +1,7 @@
-Hello, my name is Nexus!
-I am a software engineer and I also like to research security implementations in games.
+- Hello, my name is Nexus!
+- I am a software engineer and I also like to research security implementations in games.
 
-I know around 11 languages:
+- I know around 11 languages:
     - HTML
     - CSS
     - JavaScript
@@ -12,6 +12,8 @@ I know around 11 languages:
     - Kotlin
     - Rust
     - PHP
-[b]Some i don't really use often, but I am steadily learning them.[/b]
+| **Some i don't really use often, but I am steadily learning them.**
+
+
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nexus0821&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
