@@ -13,3 +13,5 @@
     - A tiny bit of Kotlin
     - A bit of Rust as well
     - PHP (i dont use it very often)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nexus0821&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
