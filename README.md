@@ -1,17 +1,17 @@
-- 👋 Hi, I am Nexus and I am a software engineer, and a security engineer and researcher.
-- 👀 I’m interested in ethical hacking, general software development and game development.
-- 🌱 I’m currently learning C++, and a bunch of other languages!
+Hello, my name is Nexus!
+I am a software engineer and I also like to research security implementations in games.
 
-- Languages:
-    - Node JS
+I know around 11 languages:
+    - HTML
+    - CSS
+    - JavaScript
     - C#
-    - Python
-    - Javascript
+    - C++
     - Java
-    - Other JavaScript derived languages (such as TypeScript, Node.JS, etc)
-    - SQL
-    - A tiny bit of Kotlin
-    - A bit of Rust as well
-    - PHP (i dont use it very often)
+    - TypeScript / Node.JS
+    - Kotlin
+    - Rust
+    - PHP
+[b]Some i don't really use often, but I am steadily learning them.[/b]
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nexus0821&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
