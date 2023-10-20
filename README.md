@@ -17,3 +17,4 @@
 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nexus0821&bg_color=2b2b2b&color=4c839e&line=24abc6&point=51c4cd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nexus0821&theme=dark&show_icons=true)
