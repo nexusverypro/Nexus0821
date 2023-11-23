@@ -1,17 +1,53 @@
-- Hello, my name is Nexus!
-- I am a software engineer and I also like to research security implementations in games.
+<!-- Intruduction -->
+<div id="user-content-toc">
+    <ul align="center">
+        <summary><h1 style="display: inline-block">Hello! My name is Nexus. 👋</h1></summary>
+    </ul>
+</div>
 
-- I know around 11 languages:
-    - HTML
-    - CSS
-    - JavaScript
-    - C#
-    - C++
-    - Java
-    - TypeScript / Node.JS
-    - Kotlin
-    - Rust
-    - PHP
-> **Some I don't really use often, but I am steadily learning them.**
+<!-- Top lang -->
+<p align="center">
+<table align="center">
+    <tr>
+        <td width="50%" align="center">
+            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Nexus0821&theme=dark&show_icons=true&count_private=true" />
+            <br></br>
+            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nexus0821&theme=dark&hide_border=false" /> 
+        </td>
+        <td width="50%" align="center">
+            <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nexus0821&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+        </td>
+    </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nexus0821&theme=tokyonight&show_icons=true) 
+<!-- Trophies -->
+<div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Nexus0821&theme=dark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
+
+</br>
+
+<!-- Techno stack-->
+<div id="user-content-toc">
+    <ul align="center">
+        <summary><h2 style="display: inline-block">Stacks that I use (currently)</h2></summary>
+    </ul>
+</div>
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,react,github,vscode,visualstudio,discord,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,ts&perline=14" />
+    </a>
+</p>
+
+</br></br>
+
+<!-- Views -->
+<div id="user-views">
+    <ul align="center" href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=Nexus0821&label=Profile%20Views&color=12&icon=5&pretty=false" />
+    </ul>
+</div>
