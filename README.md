@@ -12,6 +12,6 @@
     - Kotlin
     - Rust
     - PHP
-> **Some i don't really use often, but I am steadily learning them.**
+> **Some I don't really use often, but I am steadily learning them.**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nexus0821&theme=tokyonight&show_icons=true) 
